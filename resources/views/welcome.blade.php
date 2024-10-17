@@ -10,6 +10,7 @@
 <body>
     <livewire:header />
     <livewire:hero />
+    <livewire:section-two />
 </body>
 
 </html>

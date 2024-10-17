@@ -30,8 +30,11 @@ export default {
           {
             mytheme: {
 
-              'primary': '#A02334', // Customize other colors if needed
-              'background': '#ffffff', // Set your background color
+              'primary': '#003a96', //royal blue?
+              'base-content': '#0b2f5b', // pastel blue?
+              'secondary': '#ffa500',  // yellowish gold?
+              'accent': '#ffa500',
+              'background': '#ffffff',
             },
           },
         ],
