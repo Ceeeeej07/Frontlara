@@ -2,8 +2,8 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "build --output public",
-        "dev": "vite"
+        "dev": "vite",
+        "build": "vite build --outDir public"
     },
     "devDependencies": {
         "autoprefixer": "^10.4.20",
